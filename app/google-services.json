@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911242749629",
+    "project_id": "fir-photos-44841",
+    "storage_bucket": "fir-photos-44841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911242749629:android:d8570c74d48d477330f9d4",
+        "android_client_info": {
+          "package_name": "com.example.firebasephotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911242749629-1um8cau973ohn7ge87smkpgj4gl61cde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlS8r8_JBWSNywqcA3af4VXQnDaAPMmxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911242749629-1um8cau973ohn7ge87smkpgj4gl61cde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
